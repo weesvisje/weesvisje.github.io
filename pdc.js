@@ -107,7 +107,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "Price G. (16)2",
-                                            desc: "4-17"
+                                            desc: "4-1"
                                         },
                                         children: [
                                             {
