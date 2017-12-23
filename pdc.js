@@ -25,19 +25,19 @@ var tree_structure = {
     nodeStructure: {
         text: {
             name: "World Champion",
-            desc: "best of 13"
+            desc: "1 Jan 21:00 CET"
         },
         children: [
             {
                 text: {
                     name: "Semi Final 1",
-                    desc: "best of 11"
+                    desc: "30 Dec 20:30 CET"
                 },
                 children: [
                     {
                         text: {
                             name: "Quarter Final 1",
-                            desc: "best of 9"
+                            desc: "29 Dec"
                         },
                         children: [
                             {
@@ -231,7 +231,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 4",
-                                            desc: "best of 7"
+                                            desc: "23 Dec 20:00 CET"
                                         },
                                         children: [
                                             {
@@ -293,7 +293,7 @@ var tree_structure = {
                     {
                         text: {
                             name: "Quarter Final 2",
-                            desc: "best of 9"
+                            desc: "29 Dec"
                         },
                         children: [
                             {
@@ -429,7 +429,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 7",
-                                            desc: "best of 7"
+                                            desc: "23 Dec 20:00 CET"
                                         },
                                         children: [
                                             {
@@ -487,7 +487,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 8",
-                                            desc: "best of 7"
+                                            desc: "23 Dec 14:00 CET"
                                         },
                                         children: [
                                             {
@@ -551,13 +551,13 @@ var tree_structure = {
             {
                 text: {
                     name: "Semi Final 2",
-                    desc: "best of 11"
+                    desc: "30 Dec 20:30 CET"
                 },
                 children: [
                     {
                         text: {
                             name: "Quarter Final 3",
-                            desc: "best of 9"
+                            desc: "29 Dec"
                         },
                         children: [
                             {
@@ -569,7 +569,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 9",
-                                            desc: "best of 7"
+                                            desc: "27 Dec 20:00 CET"
                                         },
                                         children: [
                                             {
@@ -627,7 +627,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 10",
-                                            desc: "best of 7"
+                                            desc: "27 Dec 13:30 CET"
                                         },
                                         children: [
                                             {
@@ -693,7 +693,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 11",
-                                            desc: "best of 7"
+                                            desc: "27 Dec 13:30 CET"
                                         },
                                         children: [
                                             {
@@ -751,7 +751,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 12",
-                                            desc: "best of 7"
+                                            desc: "27 Dec 13:30 CET"
                                         },
                                         children: [
                                             {
@@ -813,7 +813,7 @@ var tree_structure = {
                     {
                         text: {
                             name: "Quarter Final 4",
-                            desc: "best of 9"
+                            desc: "29 Dec"
                         },
                         children: [
                             {
@@ -825,7 +825,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 13",
-                                            desc: "best of 7"
+                                            desc: "23 Dec 20:00 CET"
                                         },
                                         children: [
                                             {
@@ -883,7 +883,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 14",
-                                            desc: "best of 7"
+                                            desc: "23 Dec 14:00 CET"
                                         },
                                         children: [
                                             {
@@ -1007,7 +1007,7 @@ var tree_structure = {
                                     {
                                         text: {
                                             name: "2nd round 16",
-                                            desc: "best of 7"
+                                            desc: "23 Dec 14:00 CET"
                                         },
                                         children: [
                                             {
