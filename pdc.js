@@ -486,8 +486,8 @@ var tree_structure = {
                                     }, //2nd round 7
                                     {
                                         text: {
-                                            name: "2nd round 8",
-                                            desc: "23 Dec 14:00 CET"
+                                            name: "Cross R. (20)",
+                                            desc: "3-4"
                                         },
                                         children: [
                                             {
