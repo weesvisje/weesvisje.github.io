@@ -428,8 +428,8 @@ var tree_structure = {
                                 children: [
                                     {
                                         text: {
-                                            name: "2nd round 7",
-                                            desc: "23 Dec 20:00 CET"
+                                            name: "Henderson J. (29)",
+                                            desc: "2-4"
                                         },
                                         children: [
                                             {
