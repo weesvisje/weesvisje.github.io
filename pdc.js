@@ -43,7 +43,7 @@ var tree_structure = {
                             {
                                 text: {
                                     name: "3rd round 1",
-                                    desc: "best of 7"
+                                    desc: "27 Dec 20:00 CET"
                                 },
                                 children: [
                                     {
@@ -167,7 +167,7 @@ var tree_structure = {
                             {
                                 text: {
                                     name: "3rd round 2",
-                                    desc: "best of 7"
+                                    desc: "27 Dec 20:00 CET"
                                 },
                                 children: [
                                     {
