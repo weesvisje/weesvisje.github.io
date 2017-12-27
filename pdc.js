@@ -626,8 +626,8 @@ var tree_structure = {
                                     }, //2nd round 9
                                     {
                                         text: {
-                                            name: "2nd round 10",
-                                            desc: "27 Dec 13:30 CET"
+                                            name: "Richardson J.",
+                                            desc: "1-4"
                                         },
                                         children: [
                                             {
@@ -692,8 +692,8 @@ var tree_structure = {
                                 children: [
                                     {
                                         text: {
-                                            name: "2nd round 11",
-                                            desc: "27 Dec 13:30 CET"
+                                            name: "Alcinas A.",
+                                            desc: "1-4"
                                         },
                                         children: [
                                             {
@@ -750,8 +750,8 @@ var tree_structure = {
                                     }, //2nd round 11
                                     {
                                         text: {
-                                            name: "2nd round 12",
-                                            desc: "27 Dec 13:30 CET"
+                                            name: "Webster D. (23)",
+                                            desc: "1-4"
                                         },
                                         children: [
                                             {
