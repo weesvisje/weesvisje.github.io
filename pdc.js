@@ -166,8 +166,8 @@ var tree_structure = {
                             }, //3rd round 1
                             {
                                 text: {
-                                    name: "3rd round 2",
-                                    desc: "27 Dec 20:00 CET"
+                                    name: "Van Barneveld R. (9)",
+                                    desc: "1-4"
                                 },
                                 children: [
                                     {
