@@ -37,7 +37,7 @@ var tree_structure = {
                     {
                         text: {
                             name: "Quarter Final 1",
-                            desc: "29 Dec"
+                            desc: "29 Dec 20:00 CET"
                         },
                         children: [
                             {
@@ -293,7 +293,7 @@ var tree_structure = {
                     {
                         text: {
                             name: "Quarter Final 2",
-                            desc: "29 Dec"
+                            desc: "29 Dec 13:30 CET"
                         },
                         children: [
                             {
@@ -557,7 +557,7 @@ var tree_structure = {
                     {
                         text: {
                             name: "Quarter Final 3",
-                            desc: "29 Dec"
+                            desc: "29 Dec 13:30 CET"
                         },
                         children: [
                             {
@@ -813,7 +813,7 @@ var tree_structure = {
                     {
                         text: {
                             name: "Quarter Final 4",
-                            desc: "29 Dec"
+                            desc: "29 Dec 20:00 CET"
                         },
                         children: [
                             {
