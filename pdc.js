@@ -298,8 +298,8 @@ var tree_structure = {
                         children: [
                             {
                                 text: {
-                                    name: "3rd round 3",
-                                    desc: "28 Dec 13:30 CET"
+                                    name: "Van den Bergh D.",
+                                    desc: "0-4"
                                 },
                                 children: [
                                     {
@@ -422,8 +422,8 @@ var tree_structure = {
                             }, //3rd round 3
                             {
                                 text: {
-                                    name: "3rd round 4",
-                                    desc: "28 Dec 13:30 CET"
+                                    name: "Cross R. (20)",
+                                    desc: "1-4"
                                 },
                                 children: [
                                     {
@@ -686,8 +686,8 @@ var tree_structure = {
                             }, //3rd round 5
                             {
                                 text: {
-                                    name: "3rd round 6",
-                                    desc: "28 Dec 13:30 CET"
+                                    name: "Webster D. (23)",
+                                    desc: "0-4"
                                 },
                                 children: [
                                     {
