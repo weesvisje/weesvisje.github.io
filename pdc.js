@@ -818,8 +818,8 @@ var tree_structure = {
                         children: [
                             {
                                 text: {
-                                    name: "3rd round 7",
-                                    desc: "28 Dec 20:00 CET"
+                                    name: "Taylor P. (6)",
+                                    desc: "4-0"
                                 },
                                 children: [
                                     {
