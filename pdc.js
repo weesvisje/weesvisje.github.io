@@ -36,8 +36,8 @@ var tree_structure = {
                 children: [
                     {
                         text: {
-                            name: "Quarter Final 1",
-                            desc: "29 Dec 20:00 CET"
+                            name: "Van Gerwen M. (1)",
+                            desc: "5-4"
                         },
                         children: [
                             {
