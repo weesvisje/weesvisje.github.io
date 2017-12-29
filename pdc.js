@@ -812,8 +812,8 @@ var tree_structure = {
                     }, //quarter 3
                     {
                         text: {
-                            name: "Quarter Final 4",
-                            desc: "29 Dec 20:00 CET"
+                            name: "Taylor P. (6)",
+                            desc: "5-3"
                         },
                         children: [
                             {
