@@ -550,8 +550,8 @@ var tree_structure = {
             }, //semi 1
             {
                 text: {
-                    name: "Semi Final 2",
-                    desc: "30 Dec 20:30 CET"
+                    name: "Taylor P. (6)",
+                    desc: "1-6"
                 },
                 children: [
                     {
