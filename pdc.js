@@ -24,8 +24,8 @@ var tree_structure = {
 
     nodeStructure: {
         text: {
-            name: "World Champion",
-            desc: "1 Jan 21:00 CET"
+            name: "Cross R. (20)",
+            desc: "7-2"
         },
         children: [
             {
